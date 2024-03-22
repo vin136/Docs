@@ -1,4 +1,5 @@
 site_name: MkDocs Tutorial
+site_url: https://vin136.github.io/Docs/
 theme:
   name: material
   features:
